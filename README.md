@@ -1,5 +1,6 @@
 # Spotify-Playlist-Beatsaver-Map-Downloader-File
 Finds and downloads Beat Saber maps from a Spotify playlist
+(it's not perfect, may miss a few songs since it doesn't look through every map)
 
 # Setup
 To start, the program will need to authenticate your Spotify
